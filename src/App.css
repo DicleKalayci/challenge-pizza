@@ -91,12 +91,9 @@ nav a {
   justify-content: space-between;
 
 }
-.footer{
-  border: 1px solid #ccc;
-  width: 60%;
+
   
 
-}
 .total-price h6 {
   text-align: center;
   padding-top: .5rem;
@@ -198,10 +195,7 @@ textarea {
   
    
   }
-  .footer{
-    border: none;
-   
-  }
+  
   
  
   .total h6 {
