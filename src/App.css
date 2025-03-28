@@ -92,6 +92,13 @@ nav a {
 
 }
 
+.footer{
+
+  border: 1px solid #ccc;
+  width: 60%;
+
+}
+
   
 
 .total-price h6 {
@@ -194,6 +201,12 @@ textarea {
    margin-bottom: 1rem;;
   
    
+  }
+
+  .footer{
+ 
+    border: none;
+
   }
   
   
